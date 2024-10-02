@@ -1,0 +1,23 @@
+h1 {
+   /*color:green*/
+   text-align:center;
+   font-family: Georgia,serif;
+}
+
+img{
+   width:40%
+}
+
+#chapeau {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.vert{
+    color: darkolivegreen;
+    font-size:large;
+}
