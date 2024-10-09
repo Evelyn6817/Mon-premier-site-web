@@ -3,9 +3,19 @@ h1 {
    text-align:center;
    font-family: Georgia,serif;
 }
-
+h2 {
+    font-family: Georgia,serif;
+    font-size:large;
+    font-weight:bold;
+    color: darkslategrey;
+}
+h3 {
+    font-family: Georgia,serif;
+    font-size: medium;
+    font-weight: bold;
+}
 img{
-   width:40%
+   width:25%
 }
 
 #chapeau {
@@ -17,7 +27,7 @@ p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.vert{
-    color: darkolivegreen;
-    font-size:large;
+.bold{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
